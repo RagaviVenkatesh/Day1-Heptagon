@@ -1,0 +1,52 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@551&display=swap'); */
+
+/* body
+{
+    background-color: lightcyan;
+    color: blue;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+h2{
+    color: orangered;
+    background-color: palegoldenrod;
+}
+
+p{
+    font-size: 30px;
+}
+
+img{
+    width: 600px;
+    height: 450px;
+}
+
+a{
+    color: rgb(230, 31, 130);
+    text-decoration: none;
+    background-color: rgb(236, 236, 174);
+    padding: 14px 25px;
+    border: tomato;
+} */
+
+/* a:hover{
+    color: midnightblue;
+    text-decoration: underline;
+}
+
+a:visited{
+    color: blue;
+} */
+
+#firstpara{
+    color: teal;
+}
+
+#titleName{
+    background-color: violet;
+}
+
+#firstPart{
+    background-image: url('https://cdn.pixabay.com/photo/2018/08/18/13/26/interface-3614766_1280.png');
+}
